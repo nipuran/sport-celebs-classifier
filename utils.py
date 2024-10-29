@@ -2,8 +2,8 @@ import cv2
 import pywt
 import os
 import numpy as np
-import streamlit as st
 from PIL import Image
+import streamlit as st
 
 face_cascade = cv2.CascadeClassifier('./model/opencv/haarcascades/haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('./model/opencv/haarcascades/haarcascade_eye.xml')
