@@ -111,4 +111,4 @@ The models have been fine-tuned using cross-validation, and the best model param
 
 ### Preview
 
-<img src='preview-streamlit-app.jpeg' alt="App Preview">
+<img src='preview-streamlit-app.gif' alt="App Preview">
